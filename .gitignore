@@ -8,6 +8,11 @@ yarn-error.log*
 .next/
 out/
 build/
+.next/cache/
+.next/static/
+.next/server/
+.next/types/
+.next/trace
 
 # Environment variables
 .env
